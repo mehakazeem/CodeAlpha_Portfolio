@@ -17,7 +17,6 @@ NovaPortfolio is a modern, responsive, and interactive personal portfolio showca
 - **Interactive UI:** Smooth scrolling, navigation, and modern hero elements.
 
 ## 🔗 Live Demo
-[Click Here to View Live Portfolio](https://your-live-link-here.netlify.app)
-
+ https://codealpha-portfolio-mehak.netlify.app/
 ---
 *Developed with 💻 by Mehak Azeem*
